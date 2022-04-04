@@ -9,7 +9,7 @@
   }
 
 .icon-panel .MuiSvgIcon-root {
-    color: gray;
+    color: gray !important;
 }
 
 .icon-panel {
