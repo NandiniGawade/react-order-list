@@ -1,0 +1,21 @@
+.footer{
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: rgb(241 240 237);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+
+.icon-panel .MuiSvgIcon-root {
+    color: gray;
+}
+
+.icon-panel {
+    margin-right: 15px;
+}
+
+.footer-container {
+    display: flex;
+}

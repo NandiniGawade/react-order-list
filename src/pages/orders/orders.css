@@ -1,0 +1,20 @@
+.list-color{
+    color: rgb(248, 120, 1)
+}
+
+.list-panel {
+    max-height: 600px;
+    overflow: auto;
+}
+
+.item-count {
+    background-color: #cfcaca;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+
+.order-count {
+    margin: 10px;
+    font-size: 13px;
+}

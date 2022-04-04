@@ -1,0 +1,149 @@
+{
+    "list": [
+        {
+            "id": 1,
+            "title": "10.15AM",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "10.15AM",
+                    "subitems": [
+                        {
+                            "id": 1,
+                            "name": "MG Road"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Laxmi Road"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "10.30AM",
+                    "subitems": [
+                        {
+                            "id": 1,
+                            "name": "Subway"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Prabhat Road"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "11AM",
+                    "subitems": [
+                        {
+                            "id": 1,
+                            "name": "Sinhgad Road"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Dhayari"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Narhe"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "11.15AM",
+                    "subitems": [
+                        {
+                            "id": 1,
+                            "name": "Katraj"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Swargate"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "11.30AM",
+                    "subitems": [
+                        {
+                            "id": 1,
+                            "name": "Tree house"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Millinium"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "12PM",
+                    "subitems": [
+                        {
+                            "id": 1,
+                            "name": "Vandevi"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "12.30PM",
+                    "subitems": [
+                        {
+                            "id": 1,
+                            "name": "Katraj"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Swargate"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "1.15PM",
+                    "subitems": [
+                        {
+                            "id": 1,
+                            "name": "Dhayari"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "1.30PM",
+                    "subitems": [
+                        {
+                            "id": 1,
+                            "name": "Hadpasar"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "2PM",
+                    "subitems": [
+                        {
+                            "id": 1,
+                            "name": "MG Road"
+                        },
+                        {
+                            "id": 2,
+                            "name": "Laxmi Road"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Katraj"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Sinhgad Road"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]}
